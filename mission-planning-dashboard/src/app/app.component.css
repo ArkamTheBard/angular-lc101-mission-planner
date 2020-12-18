@@ -1,0 +1,18 @@
+.box{
+    display: flex;
+    padding: 10px;
+}
+
+app-crew{
+    border-style: dashed;
+    border-right-width: 0cm;
+}
+
+app-equipment{
+    border-style: dashed;
+}
+
+app-experiments{
+    border-style: dashed;
+    border-left-width: 0cm;
+}

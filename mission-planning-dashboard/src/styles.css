@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    color: silver;
+    background-image: url("https://cnet2.cbsistatic.com/img/s0afpiNvKMBIVTiPZK7wxb8mDFc=/1092x0/2018/07/26/a05f323a-b3ba-4dd5-859d-521ffd218f88/hubblemars.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
